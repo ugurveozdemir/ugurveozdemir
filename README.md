@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugurveozdemir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ugur3ozdemir@gmail.com
 
 <!---
